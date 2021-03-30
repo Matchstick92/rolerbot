@@ -8,8 +8,9 @@ class EmojiID:
 
 emoji = {
     'Valheim': '<:valheim:{}>'.format(EmojiID.VALHEIM),
-    'Valorant': '<:valorant:{}>'.format(EmojiID.VALHEIM),
+    'Valorant': '<:valorant:{}>'.format(EmojiID.VALORANT),
     'Genshin Impact': '<:primogem:{}>'.format(EmojiID.GENSHIN),
     'Phasmophobia': '<:phasmo:{}>'.format(EmojiID.PHASMO),
     'King\'s Raid': '<:liliawave:{}>'.format(EmojiID.KINGS_RAID),
+    'Cookie Clicker': '🍪',
 }
