@@ -4,7 +4,8 @@ class EmojiID:
     GENSHIN = 825060311517102090
     PHASMO = 825072065122926652
     KINGS_RAID = 825073407606652949
-    FFXIV = 837014317613842462
+    FFXIV = 837014230740762735
+    LEAGUE = 844787371064033290
 
 
 emoji = {
@@ -14,5 +15,6 @@ emoji = {
     'Phasmophobia': '<:phasmo:{}>'.format(EmojiID.PHASMO),
     'King\'s Raid': '<:liliawave:{}>'.format(EmojiID.KINGS_RAID),
     'FFXIV': '<:ffxiv:{}>'.format(EmojiID.FFXIV),
+    'League of Legends': '<:LeagueofLegends:{}>'.format(EmojiID.LEAGUE),
     'Cookie Clicker': '🍪',
 }

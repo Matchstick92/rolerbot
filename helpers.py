@@ -14,7 +14,7 @@ def get_role_id(emoji):
     elif emoji.id == EmojiID.KINGS_RAID:
         return Role.KINGS_RAID
     elif emoji.id == EmojiID.FFXIV:
-        return Role.KINGS_RAID
+        return Role.FFXIV
     elif str(emoji) == '🍪':
         return Role.COOKIE_CLICKER
     else:
